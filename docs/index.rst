@@ -60,3 +60,7 @@ Wikia Alfa Kumpulan Informasi Terkini, membahas seputar dunia teknologi, otomoti
 DMO.or.id
 ==================
 Portal digital marketing rujukan untuk UKM dan bisnis online. Membahas berbagai tips dan trik seputar dunia pemasaran (marketing), SEO, serta trend terkini di dunia digital.
+
+- `kumpulan budaya indonesia <https://budaya.readthedocs.io/en/latest/>`_
+- `Otomotif on rftd <https://otomotif.readthedocs.io/en/latest/>`_
+- `alexa on rftd <https://alexa.readthedocs.io/en/latest/>`_
