@@ -3,64 +3,24 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Contoh Repository Digital | Github Dokumen
+Smadav Pro | Github Dokumen
 ==================================================
 
-Contents:
-
-.. toctree::
-   :maxdepth: 2
-   :glob:
-
-   *
 
 
+- `Smadav 2020 <https://smadav.pro/>`_
+- `Hp Inkjet <https://hp-inkjet.cc/>`_
+- `smadav 2020 pro <https://smadavcentre.com/>`_
 
-Indices and tables
-==================
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+Since the 1990s, specialists in the social and normal sciences have utilized PC recreations to attempt to respond to inquiries concerning our reality: What causes war? Which political frameworks are the most steady? By what method will environmental change influence worldwide movement? The nature of these recreations is variable, since they are restricted by how well present day PCs can mirror the huge multifaceted nature of our reality — or, in other words, not great. 
 
-Karinov Media Network 
-==================
-- https://karinov.co.id - jasa digital marketing indonesia
-- https://www.tnol.co.id - forum modifikasi otomotif indonesia
-- https://blogs.itb.ac.id/wikia - catatan hidup mahasiswa wikia alfa
-- https://blogs.itb.ac.id/feeds - kumpulan tautan berita terbaru indonesia
-- https://www.m-edukasi.web.id - portal bisnis online dan umkm
-- https://www.pelita.or.id - harian pelita portal informasi terkini
+However, consider the possibility that PCs one day were to turn out to be so incredible, and these reenactments so complex, that each mimicked "individual" in the PC code were as entangled a person as you or me, to such an extent, that these individuals accepted they were really alive. Furthermore, imagine a scenario where this has just occurred. 
 
-Tech News Online
-==================
-Portal teknologi internet dan internet marketing. Fokus mengulas seputar dunia startup, perkembangan teknologi informasi, serta dunia bisnis online.
+In 2003, the scholar Nick Bostrom made a shrewd contention that we may live in a PC recreation made by a further developed human advancement. He contended that in the event that you accept that our human advancement will one day run many refined recreations concerning its predecessors, at that point you ought to accept that we're most likely in a precursor reenactment at the present time. His thinking? On the off chance that individuals inevitably create reenactment innovation — regardless of to what extent that takes — and on the off chance that they're keen on making recreations of their progenitors, at that point reproduced individuals with encounters simply like our own will tremendously dwarf unsimulated individuals. 
 
-M-edukasi.web.id
-==================
-Mengupas tuntas berbagai hal terkait bisnis di era digital. Fokus dalam topik pengembangan startup di Indonesia, tips & trik blogging, serta SEO.
+On the off chance that the vast majority are reproductions, Professor Bostrom finished up, the chances are great that we ourselves are recreations. Our reality would be only one reenactment of many, maybe part of an exploration undertaking made to contemplate the historical backdrop of development. As the physicist (and Nobel laureate) George Smoot has clarified, "In the event that you are an anthropologist/history specialist and need to comprehend the ascent and fall of developments, at that point you should make a lot of reenactments including millions to billions of individuals." 
 
-Karinov Wiki
-==================
-Membahas berbagai problem dan pertanyaan yang sering muncul di internet. Karinov Wiki menawarkan Anda berbagai cara paling mudah dalam menyelesaikan masalah.
+The hypothesis that we are living in a PC reproduction may sound strange, however it has discovered followers. The innovation business visionary Elon Musk has said that the chances that we are not mimicked are "one of every billions." Professor Smoot gauges that the proportion of recreated to genuine individuals may be as high as 10¹² to 1. 
 
-Karinov.co.id
-==================
-Your next digital partner. Kami membantu bisnis Anda berkembang di era digital lewat layanan website dan optimasi SEO. Powered by Google Cloud Platform. Hire Us!
-
-Klub Studi
-==================
-Klub Studi Mahasiswa Bandung Hadir untuk memenuhi resources yang banyak dibutuhkan mahasiswa secara umum baik dari sisi keilmuan, aktivitas organisasi, serta materi lainnya.
-
-Pusat informasi SNMPTN
-==================
-SBMPTN serta beasiswa secara online. Tersedia info lengkap beserta tips mendapatkan beasiswa dalam dan luar negeri.
-Wikia Alfa Kumpulan Informasi Terkini, membahas seputar dunia teknologi, otomotif, pemasaran bisnis serta informasi menarik lainnya hanya di Wikia Alfa ITB Blogs.
-
-DMO.or.id
-==================
-Portal digital marketing rujukan untuk UKM dan bisnis online. Membahas berbagai tips dan trik seputar dunia pemasaran (marketing), SEO, serta trend terkini di dunia digital.
-
-- `kumpulan budaya indonesia <https://budaya.readthedocs.io/en/latest/>`_
-- `Otomotif on rftd <https://otomotif.readthedocs.io/en/latest/>`_
-- `alexa on rftd <https://alexa.readthedocs.io/en/latest/>`_
+As of late, researchers have turned out to be keen on testing the hypothesis. In 2012, propelled by Professor Bostrom's work, physicists at the University of Washington proposed an exact analysis of the recreation speculation. The subtleties are intricate, yet the essential thought is straightforward: Some of the present PC reproductions of our universe produce unmistakable peculiarities — for instance, there are obvious glitches in the conduct of mimicked infinite beams. By investigating the enormous beams in our universe, the physicists recommended, we may identify equivalent abnormalities, giving proof that we live in a reenactment.
